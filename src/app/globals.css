@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Use class-based dark mode so next-themes can control it via .dark on <html> */
+@custom-variant dark (&:where(.dark, .dark *));

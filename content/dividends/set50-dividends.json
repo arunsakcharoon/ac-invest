@@ -1,0 +1,122 @@
+[
+  {
+    "ticker": "ADVANC",
+    "name": "บริษัท แอดวานซ์ อินโฟร์ เซอร์วิส จำกัด (มหาชน)",
+    "sector": "เทคโนโลยีสารสนเทศและการสื่อสาร",
+    "last_price": 231.00,
+    "trailing_annual_dividend": 9.80,
+    "dividend_yield": 4.24,
+    "ex_date": "2025-04-22",
+    "pay_date": "2025-05-09",
+    "frequency": "semi-annual",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "AOT",
+    "name": "บริษัท ท่าอากาศยานไทย จำกัด (มหาชน)",
+    "sector": "บริการ",
+    "last_price": 58.25,
+    "trailing_annual_dividend": 0.55,
+    "dividend_yield": 0.94,
+    "ex_date": "2025-03-14",
+    "pay_date": "2025-04-04",
+    "frequency": "annual",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "KBANK",
+    "name": "ธนาคารกสิกรไทย จำกัด (มหาชน)",
+    "sector": "ธนาคาร",
+    "last_price": 142.50,
+    "trailing_annual_dividend": 5.50,
+    "dividend_yield": 3.86,
+    "ex_date": "2025-04-02",
+    "pay_date": "2025-04-22",
+    "frequency": "semi-annual",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "PTT",
+    "name": "บริษัท ปตท. จำกัด (มหาชน)",
+    "sector": "พลังงาน",
+    "last_price": 32.50,
+    "trailing_annual_dividend": 1.50,
+    "dividend_yield": 4.62,
+    "ex_date": "2025-04-25",
+    "pay_date": "2025-05-15",
+    "frequency": "annual",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "PTTEP",
+    "name": "บริษัท ปตท.สำรวจและผลิตปิโตรเลียม จำกัด (มหาชน)",
+    "sector": "พลังงาน",
+    "last_price": 117.00,
+    "trailing_annual_dividend": 8.25,
+    "dividend_yield": 7.05,
+    "ex_date": "2025-04-10",
+    "pay_date": "2025-04-30",
+    "frequency": "semi-annual",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "SCB",
+    "name": "ธนาคารไทยพาณิชย์ จำกัด (มหาชน)",
+    "sector": "ธนาคาร",
+    "last_price": 97.25,
+    "trailing_annual_dividend": 7.00,
+    "dividend_yield": 7.20,
+    "ex_date": "2025-04-03",
+    "pay_date": "2025-04-23",
+    "frequency": "semi-annual",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "SCC",
+    "name": "บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน)",
+    "sector": "วัสดุก่อสร้าง",
+    "last_price": 195.00,
+    "trailing_annual_dividend": 10.00,
+    "dividend_yield": 5.13,
+    "ex_date": "2025-04-24",
+    "pay_date": "2025-05-14",
+    "frequency": "quarterly",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "CPALL",
+    "name": "บริษัท ซีพี ออลล์ จำกัด (มหาชน)",
+    "sector": "พาณิชย์",
+    "last_price": 61.75,
+    "trailing_annual_dividend": 0.75,
+    "dividend_yield": 1.21,
+    "ex_date": "2025-05-08",
+    "pay_date": "2025-05-28",
+    "frequency": "semi-annual",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "GULF",
+    "name": "บริษัท กัลฟ์ เอ็นเนอร์จี ดีเวลลอปเมนท์ จำกัด (มหาชน)",
+    "sector": "พลังงาน",
+    "last_price": 42.50,
+    "trailing_annual_dividend": 0.50,
+    "dividend_yield": 1.18,
+    "ex_date": "2025-05-02",
+    "pay_date": "2025-05-22",
+    "frequency": "annual",
+    "updated_at": "2026-05-29T01:00:00Z"
+  },
+  {
+    "ticker": "TISCO",
+    "name": "ธนาคารทิสโก้ จำกัด (มหาชน)",
+    "sector": "ธนาคาร",
+    "last_price": 92.75,
+    "trailing_annual_dividend": 8.75,
+    "dividend_yield": 9.43,
+    "ex_date": "2025-04-09",
+    "pay_date": "2025-04-29",
+    "frequency": "quarterly",
+    "updated_at": "2026-05-29T01:00:00Z"
+  }
+]
